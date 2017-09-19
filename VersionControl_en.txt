@@ -1,0 +1,5 @@
+v.alpha
+Initializing the project. Creating a "skeleton"
+- folder create
+- remote repository create
+- git init
